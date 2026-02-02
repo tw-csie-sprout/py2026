@@ -1,5 +1,5 @@
-# py2025
-2025 資訊之芽北區 py 班課程網站
+# py2026
+2026 資訊之芽北區 py 班課程網站
 
 ## 開發方式
 1. 先參考 [Jekyll 官網](https://jekyllrb.com/docs/installation/)，安裝 Ruby、Gem、Jekyll 等套件
