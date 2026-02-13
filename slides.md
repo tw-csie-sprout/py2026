@@ -8,6 +8,13 @@ title: "課程講義"
 
 ## 第一階段投影片
 
+### Week 0 (02/22)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| Environment & Python Basic | [Link](https://docs.google.com/presentation/d/1OOWXl3Dy46cruMmNoUz-rQTNRqfc5tibd2wWyME99Do/edit?usp=sharing) |
+
 ### Week 1 (02/23)
 
 {: .table .table-bordered}
