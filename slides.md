@@ -15,6 +15,7 @@ title: "課程講義"
 | --- | --- |
 | Environment & Python Basic | [Link](https://docs.google.com/presentation/d/1OOWXl3Dy46cruMmNoUz-rQTNRqfc5tibd2wWyME99Do/edit?usp=sharing) |
 
+<!--
 ### Week 1 (02/23)
 
 {: .table .table-bordered}
@@ -139,4 +140,5 @@ title: "課程講義"
 | --- | --- |
 | 回饋表單 | [Link](https://forms.gle/Ej9HFrSEiEzWGbPx8) |
 | 提前印製證書需求表單 | [Link](https://forms.gle/go5k4pQrwPUpz5Nk7) |
+-->
 
