@@ -4,7 +4,7 @@ title: "課程講義"
 ---
 # 課程講義
 
-- [北區課程直播](https://youtube.com/playlist?list=PLp5kjMAmhp-8Vz7RQAR5o0JDF5ffAxw1g&feature=shared)
+- [2025北區課程直播](https://youtube.com/playlist?list=PLp5kjMAmhp-8Vz7RQAR5o0JDF5ffAxw1g&feature=shared)
 
 ## 第一階段投影片
 
