@@ -15,16 +15,16 @@ title: "課程講義"
 | --- | --- |
 | Environment & Python Basic | [Link](https://docs.google.com/presentation/d/1OOWXl3Dy46cruMmNoUz-rQTNRqfc5tibd2wWyME99Do/edit?usp=sharing) |
 
-<!--
+
 ### Week 1 (02/23)
 
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Course Introduction | [Link](https://drive.google.com/file/d/1bnI2FwYh2IDpcoNb9SZK39z85v3aKcaR/view?usp=sharing) |
+| Course Introduction | [Link](https://docs.google.com/presentation/d/1bHie57Sx08xd6Iy-7ESzupljKp9RgFd6HVb295U4KRE/edit?usp=sharing) |
 | Introduction to Python | [Link](https://www.canva.com/design/DAGfhj3B4cA/j723WifliPhfaiN29ETEaA/view?utm_content=DAGfhj3B4cA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33ea3b7ec7)|
 |Python Basic|[Link](https://hackmd.io/@gary940610/2025-sprout-python-basic)|
-
+<!--
 ### Week 2 (03/02)
 
 {: .table .table-bordered}
