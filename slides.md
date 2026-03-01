@@ -16,14 +16,14 @@ title: "課程講義"
 | Environment & Python Basic | [Link](https://docs.google.com/presentation/d/1OOWXl3Dy46cruMmNoUz-rQTNRqfc5tibd2wWyME99Do/edit?usp=sharing) |
 
 
-### Week 1 (02/23)
+### Week 1 (03/01)
 
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
 | 邏輯判斷、if | [Link](https://hackmd.io/@mwqXlFx-Snm6rWYAV9nuAA/SJjAVeG_be) |
 | 迴圈 | [Link](https://hackmd.io/@mwqXlFx-Snm6rWYAV9nuAA/rJnfvOHuWx)|
-<!--
+
 ### Week 2 (03/02)
 
 {: .table .table-bordered}
