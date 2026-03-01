@@ -9,9 +9,10 @@ title: "課程作業"
 ## 第一階段
 
 {: .table .table-bordered}
-| 日期  | 週次 | 上課練習 | 勾選作業 | 其他習題 | 檢討 |
+| 日期  | 週次 | 上課練習 | 勾選作業 | 其他習題 | 備註 |
 | :---: | :--: | :---- | :---- | :----- | :-- |
 | 02/22 | 00 | [663](https://tioj.sprout.tw/contests/39/problems/663) [668](https://tioj.sprout.tw/contests/39/problems/668) | [667](https://tioj.sprout.tw/contests/39/problems/667) |  |  |
+| 03/01 | 01 | [683](https://tioj.sprout.tw/contests/40/problems/683) [680](https://tioj.sprout.tw/contests/40/problems/683) [729](https://tioj.sprout.tw/contests/40/problems/729) [670](https://tioj.sprout.tw/contests/40/problems/670) [671](https://tioj.sprout.tw/contests/40/problems/671) | [793](https://tioj.sprout.tw/contests/40/problems/793) [794](https://tioj.sprout.tw/contests/40/problems/794) [795](https://tioj.sprout.tw/contests/40/problems/795) [796](https://tioj.sprout.tw/contests/40/problems/796) [759](https://tioj.sprout.tw/contests/40/problems/759) [760](https://tioj.sprout.tw/contests/40/problems/760) [797](https://tioj.sprout.tw/contests/40/problems/797) [798](https://tioj.sprout.tw/contests/40/problems/798) |  | 13 題完成 8 題即滿分! |
 
 <!--
 | 03/02 | 02 | [670](https://tioj.sprout.tw/contests/7/problems/670) [671](https://tioj.sprout.tw/contests/7/problems/671) [728](https://tioj.sprout.tw/contests/7/problems/728) [683](https://tioj.sprout.tw/contests/7/problems/683) [680](https://tioj.sprout.tw/contests/7/problems/680)  | [759](https://tioj.sprout.tw/contests/7/problems/759) [760](https://tioj.sprout.tw/contests/7/problems/760) [729](https://tioj.sprout.tw/contests/7/problems/729) |  |  |
