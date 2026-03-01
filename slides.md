@@ -21,9 +21,10 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
+| 課程介紹 | [Link](https://docs.google.com/presentation/d/1bHie57Sx08xd6Iy-7ESzupljKp9RgFd6HVb295U4KRE/edit?usp=sharing) |
 | 邏輯判斷、if | [Link](https://hackmd.io/@mwqXlFx-Snm6rWYAV9nuAA/SJjAVeG_be) |
 | 迴圈 | [Link](https://hackmd.io/@mwqXlFx-Snm6rWYAV9nuAA/rJnfvOHuWx)|
-
+<!--
 ### Week 2 (03/02)
 
 {: .table .table-bordered}
