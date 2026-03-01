@@ -21,9 +21,8 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Course Introduction | [Link](https://docs.google.com/presentation/d/1bHie57Sx08xd6Iy-7ESzupljKp9RgFd6HVb295U4KRE/edit?usp=sharing) |
-| Introduction to Python | [Link](https://www.canva.com/design/DAGfhj3B4cA/j723WifliPhfaiN29ETEaA/view?utm_content=DAGfhj3B4cA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33ea3b7ec7)|
-|Python Basic|[Link](https://hackmd.io/@gary940610/2025-sprout-python-basic)|
+| 邏輯判斷、if | [Link](https://hackmd.io/@mwqXlFx-Snm6rWYAV9nuAA/SJjAVeG_be) |
+| 迴圈 | [Link](https://hackmd.io/@mwqXlFx-Snm6rWYAV9nuAA/rJnfvOHuWx)|
 <!--
 ### Week 2 (03/02)
 
