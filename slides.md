@@ -39,7 +39,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | dictionary | [Link](https://hackmd.io/@Thynilaw/H1XObP5F-g#/) |
-| tuple \& set | [Link](https://shaujiun-lan.github.io/py2026-sprout/tuple_set/slides.html) |
+| tuple & set | [Link](https://shaujiun-lan.github.io/py2026-sprout/tuple_set/slides.html) |
 
 
 <!--
