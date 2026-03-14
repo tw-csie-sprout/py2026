@@ -30,8 +30,17 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| list |[Link](https://www.csie.ntu.edu.tw/~b13902145/sprout/py2026/list) |
+| list | [Link](https://www.csie.ntu.edu.tw/~b13902145/sprout/py2026/list) |
 | string | [Link](https://shaujiun-lan.github.io/py2026-sprout/string/slides.html) |
+
+### Week 3 (03/15)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| dictionary | [Link](https://hackmd.io/@Thynilaw/H1XObP5F-g#/) |
+| tuple \& set | [Link](https://shaujiun-lan.github.io/py2026-sprout/tuple_set/slides.html) |
+
 
 <!--
 ### Week 2 (03/02)
