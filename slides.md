@@ -42,14 +42,14 @@ title: "課程講義"
 | tuple & set | [Link](https://shaujiun-lan.github.io/py2026-sprout/tuple_set/slides.html) |
 
 
-<!--
-### Week 2 (03/02)
+
+### Week 4 (03/22)
 
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| 邏輯判斷、if | [Link](https://drive.google.com/file/d/14ykQ4lvahx66la11habQmhBVb-tZIAN2/view?usp=sharing) |
-| 迴圈 | [Link](https://hackmd.io/@gary940610/python-loop) |
+| function | [Link](https://hackmd.io/@gary940610/Syv7rbt5bx) |
+| import | [Link](https://hackmd.io/@gary940610/SJN8sIKcWe) |
 
 ### Week 4 (03/16)
 
