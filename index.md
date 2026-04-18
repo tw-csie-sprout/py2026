@@ -72,5 +72,4 @@ A: 可以 Ctrl-F5 清除快取，或是開啟無痕模式試試。
 | 13   | 0531 |              | LLM、PyAutoGUI                                           |
 | 14   | 0607 |              | OS、Subprocess (Ollama / Gemini CLI)                     |
 | 15   | 0614 |              | 初探算法（Linked List, Set Operator 的時間複雜度）、未來展望 |
-|      | 0621 |              | 端午連假，本週停課一次                                     |
-| 16   | 0628 | 大作業截止    | Presentation                                             |
+| 16   | 0621 | 大作業截止    | Presentation                                             |
