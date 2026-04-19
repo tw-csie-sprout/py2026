@@ -73,7 +73,7 @@ title: "課程講義"
 | --- | --- |
 | Intro|  |
 | File IO & CLI | https://docs.google.com/presentation/d/1jsa4DyUyccw_tO-4qVTwAKr3YIJ7d-5G/edit?usp=sharing&ouid=114653541072274305079&rtpof=true&sd=true |
-| Error handling & coding style |  |
+| Error handling & coding style | https://shaujiun-lan.github.io/py2026-sprout/cs_eh/slides/slides.html |
 
 ### Week 8 (04/26)
 
