@@ -71,7 +71,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Intro|  |
+| Intro| [Link](https://docs.google.com/presentation/d/12MEzf8_9WmQ6qoS-rl_5SSVz294JOOqd/edit?usp=sharing&ouid=109332966886639328335&rtpof=true&sd=true) |
 | File IO & CLI | [Link](https://docs.google.com/presentation/d/1jsa4DyUyccw_tO-4qVTwAKr3YIJ7d-5G/edit?usp=sharing&ouid=114653541072274305079&rtpof=true&sd=true) |
 | Error handling & coding style | [Link](https://shaujiun-lan.github.io/py2026-sprout/cs_eh/slides/slides.html) |
 
