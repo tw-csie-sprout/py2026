@@ -72,8 +72,8 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Intro|  |
-| File IO |  |
-| Git |  |
+| File IO & CLI | https://docs.google.com/presentation/d/1jsa4DyUyccw_tO-4qVTwAKr3YIJ7d-5G/edit?usp=sharing&ouid=114653541072274305079&rtpof=true&sd=true |
+| Error handling & coding style |  |
 
 ### Week 8 (04/26)
 
