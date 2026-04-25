@@ -80,15 +80,15 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Discord Bot| [Link](https://docs.google.com/presentation/d/1p5dPuEOZHL0iqIGC5r7R225nfNLs4Z3RS1wR3OoHyOE/edit?usp=sharing) |
-| 大作業 |  |
+| Flask | [Link](https://canva.link/b2fh3pk8vu1770y) |
 
 ### Week 9 (05/03)
 
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Flask |  |
+| Discord Bot| [Link](https://docs.google.com/presentation/d/1p5dPuEOZHL0iqIGC5r7R225nfNLs4Z3RS1wR3OoHyOE/edit?usp=sharing) |
+| 大作業 |  |
 
 ### Week 10 (05/10)
 
