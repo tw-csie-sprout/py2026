@@ -88,7 +88,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Discord Bot| [Link](https://docs.google.com/presentation/d/1p5dPuEOZHL0iqIGC5r7R225nfNLs4Z3RS1wR3OoHyOE/edit?usp=sharing) |
-| 大作業 |  |
+| 大作業 | [Link](https://hackmd.io/@gary940610/sprout-hw) |
 
 ### Week 10 (05/10)
 
