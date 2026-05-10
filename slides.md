@@ -96,7 +96,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Crawling | [Link](https://www.csie.ntu.edu.tw/~b13902145/sprout/py2026/crawling/) |
-| Selenium |  |
+| Selenium | [Link](https://shaujiun-lan.github.io/py2026-sprout/selenium/slides/slides.html) |
 
 ### Week 11 (05/17)
 
