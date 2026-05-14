@@ -103,7 +103,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Machine Learning (Numpy, Matplotlib) |  |
+| Machine Learning (Numpy, Matplotlib) | [Link](https://hackmd.io/@onion0905/B1nUSJz_Wl) |
 
 ### Week 12 (05/24)
 
