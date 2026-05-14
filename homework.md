@@ -31,3 +31,4 @@ title: "課程作業"
 |  日期  | 週次 | 作業連結 | 備註 |
 | :---: | :--: | :----- | :----- |
 | 04/19 | 07 | [作業說明](https://shaujiun-lan.github.io/py2026-sprout/cs_eh/homework/spec/) [繳交表單](https://forms.gle/JcJgQKHtNt21VLKH9) | 加分作業 |
+| 05/17 | 12 | [作業說明 & 繳交連結](https://hackmd.io/@onion0905/Skc2Djf1fe) | |
