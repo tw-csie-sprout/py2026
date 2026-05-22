@@ -32,4 +32,4 @@ title: "課程作業"
 | :---: | :--: | :----- | :----- |
 | 04/19 | 07 | [作業說明](https://shaujiun-lan.github.io/py2026-sprout/cs_eh/homework/spec/) [繳交表單](https://forms.gle/JcJgQKHtNt21VLKH9) | 加分作業 |
 | 05/17 | 11 | [作業說明 & 繳交連結](https://hackmd.io/@onion0905/Skc2Djf1fe) | |
-| 05/24 | 12 | [作業說明](https://hackmd.io/@Thynilaw/Bk2KZM3JGg) [繳交表單] (https://docs.google.com/forms/d/e/1FAIpQLSdIgowoMB6HYitItq1sEES0TWdH5cA8vJN-vsoZTLAJBUrbSA/viewform)
+| 05/24 | 12 | [作業說明](https://hackmd.io/@Thynilaw/Bk2KZM3JGg) [繳交表單](https://docs.google.com/forms/d/e/1FAIpQLSdIgowoMB6HYitItq1sEES0TWdH5cA8vJN-vsoZTLAJBUrbSA/viewform)
