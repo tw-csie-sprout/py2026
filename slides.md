@@ -110,7 +110,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| OpenCV	|  |
+| OpenCV	| [Link](https://canva.link/p1e2bwc4ylgobk4) |
 
 ### Week 13 (05/31)
 
