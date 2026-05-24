@@ -111,6 +111,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | OpenCV	| [Link](https://canva.link/p1e2bwc4ylgobk4) |
+| CNN | [Link](https://hackmd.io/@gary940610/cnn-sprout) |
 
 ### Week 13 (05/31)
 
