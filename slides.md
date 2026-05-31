@@ -119,6 +119,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | LLM |  |
+| PyAutoGUI | [Link](https://canva.link/a3x71v16t3aughz) |
 
 ### Week 14 (06/07)
 
