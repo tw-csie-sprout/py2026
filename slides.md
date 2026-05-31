@@ -118,7 +118,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| LLM |  |
+| LLM | [Link](https://hackmd.io/@onion0905/SksHN9SlMx) |
 | PyAutoGUI | [Link](https://canva.link/a3x71v16t3aughz) |
 
 ### Week 14 (06/07)
