@@ -126,7 +126,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| OS |  |
+| OS | [Link](https://www.csie.ntu.edu.tw/~b13902145/sprout/py2026/os/) |
 
 ### Week 15 (06/14)
 
