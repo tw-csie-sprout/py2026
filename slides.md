@@ -133,8 +133,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| 初探算法 |  |
-| 未來展望 |  |
+| 初探算法&未來展望 | [Link](https://docs.google.com/presentation/d/1oZ1s9_Is2V_HG5A969XXzGPSNZ41QaXtkFpRsbM3sfE/edit?usp=sharing) |
 
 ### Week 16 (06/21)
 
